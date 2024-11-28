@@ -1,0 +1,6 @@
+# build
+dist/
+*.vsix
+
+# libraries
+node_modules/
